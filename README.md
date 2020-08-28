@@ -3,13 +3,15 @@ HYPER OBJECT | Facebook Brute Force++
 
 
 # Install
+```sh
 $ git clone https://github.com/Desze/HO
 $ cd HO
 $ python object.py
+```
 
-# REDES SOCIALES 
-Instagram: @iDesze
-WhatsApp: +52 8126530017
+### REDES SOCIALES 
+- Instagram: @iDesze
+- WhatsApp: +52 8126530017
 
 
 
